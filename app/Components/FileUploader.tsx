@@ -59,7 +59,7 @@ const File=acceptedFiles[0] || null;
                 <p className="text-lg text-gray-500">
                     <span className="font-semibold">
                         Click to upload
-                    </span>or drag amd drop
+                    </span> or drag amd drop
 
                 </p>
                 <p className="text-lg text-gray-500"> PDF (max {formatSize(maxFileSize)})</p>
